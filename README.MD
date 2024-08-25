@@ -31,7 +31,6 @@ Bem-vindo ao meu perfil no GitHub! Sou um Analista de QA apaixonado por garantir
 - [**Playwright Testing Project**](https://github.com/victorleafar/PlaywrightTestingProject): Testes end-to-end usando Playwright para múltiplos navegadores.
 - [**Robot Framework Tests**](https://github.com/victorleafar/RobotFrameworkTests): Testes automatizados com Robot Framework para um projeto de software.
 - [**JUnit Testing University**](https://github.com/victorleafar/JUnit-Testing-University): Testes de APIs utilizando Postman e Insomnia, abordando diferentes cenários e casos de uso.
-- [**MobileTestingSuite**](https://github.com/seu-usuario/MobileTestingSuite): Testes automatizados para aplicações móveis usando Appium e Detox.
 
 ## 🎯 Objetivos
 
