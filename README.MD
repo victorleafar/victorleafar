@@ -10,6 +10,12 @@ Bem-vindo ao meu perfil no GitHub! Sou um Analista de QA apaixonado por garantir
 - 📝 **Interesses**: Testes de software, automação de testes.
 - 📫 **Como me encontrar**: [Email](mailto:victormartinezrc@gmail.com) | [LinkedIn](https://www.linkedin.com/in/victorleafar) | [X](https://x.com/victorleafar)
 
+## 🌍 Idiomas
+
+- 🇪🇸 **Espanhol**: Fluente
+- 🇧🇷 **Português**: Fluente
+- 🇬🇧 **Inglês**: Técnico
+
 ## 🛠️ Tecnologias e Ferramentas
 
 - **Linguagens**: Java, Python, JavaScript
