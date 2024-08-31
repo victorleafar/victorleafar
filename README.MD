@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um Analista de QA apaixonado por garantir
 - 🌍 **Localização**: Brasil
 - 🔭 **Atualmente Trabalhando em**: Automação de testes com Playwright e Cypress, e garantindo a excelência em aplicações web e móveis.
 - 📝 **Interesses**: Testes de software, automação de testes, qualidade de software.
-- 📫 **Como me encontrar**: [Email](mailto:victormartinezrc@gmail.com) | [LinkedIn](https://www.linkedin.com/in/victorleafar) | [X](https://x.com/victorleafar)
+- 📫 **Como me encontrar**: [Email](mailto:victormartinezrc@gmail.com) | [LinkedIn](https://www.linkedin.com/in/victorleafar)
 
 ## 🌍 Idiomas
 
