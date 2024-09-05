@@ -1,6 +1,6 @@
 # Olá, eu sou Victor Rafael 👋
 
-Bem-vindo ao meu perfil no GitHub! Sou um Analista de QA apaixonado por garantir a qualidade do software e especializado em testes automatizados. Aqui você encontrará informações sobre minha experiência, interesses e projetos relacionados à qualidade de software, incluindo testes para aplicações móveis.
+Bem-vindo ao meu perfil no GitHub! Sou um Analista de QA apaixonado por garantir a qualidade do software e especializado em testes automatizados. Aqui você encontrará informações sobre minha experiência, interesses e projetos relacionados à qualidade de software, incluindo testes para aplicações móveis e web.
 
 ## 🚀 Sobre Mim
 
