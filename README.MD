@@ -32,10 +32,10 @@ Bem-vindo ao meu perfil no GitHub! Sou um Analista de QA apaixonado por garantir
 
 ## 📚 Projetos Recentes
 
-- [**Cypress Testing Project**](https://github.com/victorleafar/CypressTestingProject): Testes end-to-end com Cypress, cobrindo funcionalidades críticas da aplicação.
-- [**Playwright Testing Project**](https://github.com/victorleafar/PlaywrightTestingProject): Testes end-to-end usando Playwright para múltiplos navegadores.
-- [**Robot Framework Tests**](https://github.com/victorleafar/RobotFrameworkTests): Testes automatizados com Robot Framework para um projeto de software.
-- [**JUnit Testing University**](https://github.com/victorleafar/JUnit-Testing-University): Testes unitarios utilizando Junit, abordando diferentes cenários e casos de uso.
+- [**Cypress Testing Project**](https://github.com/victorleafar/CypressTestingProject)
+- [**Playwright Testing Project**](https://github.com/victorleafar/PlaywrightTestingProject)
+- [**Robot Framework Tests**](https://github.com/victorleafar/RobotFrameworkTests)
+- [**JUnit Testing University**](https://github.com/victorleafar/JUnit-Testing-University)
 
 ## 🎯 Objetivos
 
